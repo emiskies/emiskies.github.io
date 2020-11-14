@@ -4,16 +4,3 @@
 
 layout: home
 ---
-# Testing Markdown
-
-This is a test of markdown  
-
-## This is a smaller header
-
-```
-This is some code
-```
-
-### This is a smaller header
-
-Testing.
