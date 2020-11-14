@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+Welcome to my personal website.
+
+Please check back soon.
+
+![birb](img/birb.jpg)
