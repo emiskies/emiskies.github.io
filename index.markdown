@@ -7,6 +7,6 @@ layout: home
 
 Welcome to my personal website.
 
-Please check back soon.
+Please check back soon. Have a cockatoo in the meantime.
 
 ![birb](img/birb.jpg)
