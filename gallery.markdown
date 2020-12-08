@@ -7,5 +7,5 @@ permalink: /gallery/
 
 Gallery placeholder. Eventually I will post more pictures (of birds) here.
 
-![img/birb2]()
+![birbs](img/birb2.jpg)
 
